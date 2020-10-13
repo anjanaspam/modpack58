@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="go" label="Go" language="en" table="sys_security_acl">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>go</element>
+            <help/>
+            <hint/>
+            <label>Go</label>
+            <language>en</language>
+            <name>sys_security_acl</name>
+            <plural>Gos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 14:38:42</sys_created_on>
+            <sys_id>24a16f8a53f3101071a3ddeeff7b1236</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Go</sys_name>
+            <sys_package display_value="global_test1" source="949f1f0a53f3101071a3ddeeff7b1291">949f1f0a53f3101071a3ddeeff7b1291</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="global_test2">68afdb4a53f3101071a3ddeeff7b1273</sys_scope>
+            <sys_update_name>sys_documentation_sys_security_acl_go_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 14:40:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="global_test2">68afdb4a53f3101071a3ddeeff7b1273</claim_owner_scope>
+        <claim_timestamp>1752267a97f0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_sys_security_acl_go_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>global_test2</previous_claim_name>
+        <previous_claim_scope>68afdb4a53f3101071a3ddeeff7b1273</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 14:40:20</sys_created_on>
+        <sys_id>d402a3ca53f3101071a3ddeeff7b1220</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:40:20</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="global_test2">68afdb4a53f3101071a3ddeeff7b1273</claim_owner_scope>
+        <claim_timestamp>1752267a96c0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_sys_security_acl_go_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>global_test1</previous_claim_name>
+        <previous_claim_scope>949f1f0a53f3101071a3ddeeff7b1291</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 14:40:20</sys_created_on>
+        <sys_id>9802a3ca53f3101071a3ddeeff7b1220</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 14:40:20</sys_updated_on>
+    </sys_claim>
+</record_update>
